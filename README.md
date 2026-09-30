@@ -4,103 +4,37 @@ Un desarrollador apasionado por crear software robusto, escalable y soluciones m
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
-
 #### Lenguajes de Programación
-<p align="left">
-  <a href="#" style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/><br/>
-    <sub><b>JavaScript</b></sub>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#" style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/><br/>
-    <sub><b>TypeScript</b></sub>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#" style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP"/><br/>
-    <sub><b>PHP</b></sub>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#" style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/><br/>
-    <sub><b>Python</b></sub>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#" style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/><br/>
-    <sub><b>C#</b></sub>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#" style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualbasic/visualbasic-original.svg" width="40" height="40" alt="Visual Basic"/><br/>
-    <sub><b>Visual Basic</b></sub>
-  </a>
-</p>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Visual Basic](https://img.shields.io/badge/Visual_Basic-5C2D91?style=for-the-badge&logo=visual-basic&logoColor=white)
 
 #### Desarrollo Móvil & Backend
-<p align="left">
-  <a href="#" style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React Native"/><br/>
-    <sub><b>React Native</b></sub>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#" style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/expo.svg" width="40" height="40" alt="Expo" style="filter: invert(1);"/><br/>
-    <sub><b>Expo</b></sub>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#" style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="40" height="40" alt="NestJS"/><br/>
-    <sub><b>NestJS</b></sub>
-  </a>
-</p>
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
 #### Bases de Datos
-<p align="left">
-  <a href="#" style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/><br/>
-    <sub><b>PostgreSQL</b></sub>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#" style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/><br/>
-    <sub><b>MySQL</b></sub>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#" style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40" alt="SQL Server"/><br/>
-    <sub><b>SQL Server</b></sub>
-  </a>
-</p>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 #### DevOps, UI/UX & Herramientas
-<p align="left">
-  <a href="#" style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/><br/>
-    <sub><b>Docker</b></sub>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#" style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/><br/>
-    <sub><b>Git</b></sub>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#" style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma"/><br/>
-    <sub><b>Figma</b></sub>
-  </a>
-</p>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-#### Despliegue & Gestión
-<p align="left">
-  <a href="#" style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googleplay.svg" width="40" height="40" alt="Google Play"/><br/>
-    <sub><b>Google Play</b></sub>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#" style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apple.svg" width="40" height="40" alt="App Store"/><br/>
-    <sub><b>App Store</b></sub>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#" style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" height="40" alt="Jira"/><br/>
-    <sub><b>Jira</b></sub>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#" style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="40" height="40" alt="Trello"/><br/>
-    <sub><b>Trello</b></sub>
-  </a>
-</p>
+#### Despliegue de Aplicaciones Móviles
+![Google Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
+![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)
+
+#### Gestión de Proyectos & Agilidad
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+
 ---
 
 ### 📊 Mis Estadísticas de GitHub
