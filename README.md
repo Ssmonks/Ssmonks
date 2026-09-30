@@ -6,17 +6,33 @@ Un desarrollador apasionado por crear software robusto, escalable y soluciones m
 
 ### 🛠️ Tecnologías y Herramientas
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,php,py,cs,react,expo,nestjs,postgres,mysql,docker,git,figma&theme=dark" alt="Tecnologías de Ssmonks" />
+#### Lenguajes de Programación
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,php,py,cs,visualstudio&theme=dark" alt="Lenguajes" />
 </p>
 
-| Categoría | Tecnologías y Herramientas |
-| :--- | :--- |
-| **Lenguajes** | `JavaScript` `TypeScript` `PHP` `Python` `C#` `Visual Basic` |
-| **Móvil & Backend** | `React Native` `Expo` `NestJS` |
-| **Bases de Datos** | `PostgreSQL` `MySQL` `SQL Server` |
-| **DevOps & Diseño** | `Docker` `Git` `Figma` |
-| **Tiendas & Gestión** | `Google Play Store` `App Store` `Jira` `Trello` |
+#### Desarrollo Móvil & Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,expo,nestjs&theme=dark" alt="Móvil y Backend" />
+</p>
+
+#### Bases de Datos
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=dark" alt="Bases de Datos" />
+</p>
+
+#### DevOps, UI/UX & Herramientas
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,git,figma&theme=dark" alt="DevOps y Herramientas" />
+</p>
+
+#### Despliegue de Apps & Gestión
+<p align="left">
+  <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />
+  <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
+</p>
 
 ---
 
