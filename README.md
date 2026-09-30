@@ -40,8 +40,8 @@ Un desarrollador apasionado por crear software robusto, escalable y soluciones m
 ### 📊 Mis Estadísticas de GitHub
 
 <p align="center">  
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ssmonks&layout=compact&theme=dark" alt="Lenguajes más usados" width="48%" />
-  <img src="https://github-stats-extended.vercel.app/api?username=Ssmonks&show_icons=true&theme=dark" alt="Mis estadísticas" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ssmonks&layout=compact&theme=dark" alt="Lenguajes más usados" width="48%" height="350px" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Ssmonks&show_icons=true&theme=dark" alt="Mis estadísticas" width="48%" height="350px" />
   &nbsp;&nbsp;
 </p>
 
