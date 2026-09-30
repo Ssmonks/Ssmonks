@@ -8,32 +8,99 @@ Un desarrollador apasionado por crear software robusto, escalable y soluciones m
 
 #### Lenguajes de Programación
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,php,py,cs,visualstudio&theme=dark" alt="Lenguajes" />
+  <a href="#" style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/><br/>
+    <sub><b>JavaScript</b></sub>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#" style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/><br/>
+    <sub><b>TypeScript</b></sub>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#" style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP"/><br/>
+    <sub><b>PHP</b></sub>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#" style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/><br/>
+    <sub><b>Python</b></sub>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#" style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/><br/>
+    <sub><b>C#</b></sub>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#" style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualbasic/visualbasic-original.svg" width="40" height="40" alt="Visual Basic"/><br/>
+    <sub><b>Visual Basic</b></sub>
+  </a>
 </p>
 
 #### Desarrollo Móvil & Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,expo,nestjs&theme=dark" alt="Móvil y Backend" />
+  <a href="#" style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React Native"/><br/>
+    <sub><b>React Native</b></sub>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#" style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/expo.svg" width="40" height="40" alt="Expo" style="filter: invert(1);"/><br/>
+    <sub><b>Expo</b></sub>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#" style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="40" height="40" alt="NestJS"/><br/>
+    <sub><b>NestJS</b></sub>
+  </a>
 </p>
 
 #### Bases de Datos
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=dark" alt="Bases de Datos" />
+  <a href="#" style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/><br/>
+    <sub><b>PostgreSQL</b></sub>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#" style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/><br/>
+    <sub><b>MySQL</b></sub>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#" style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40" alt="SQL Server"/><br/>
+    <sub><b>SQL Server</b></sub>
+  </a>
 </p>
 
 #### DevOps, UI/UX & Herramientas
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,git,figma&theme=dark" alt="DevOps y Herramientas" />
+  <a href="#" style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/><br/>
+    <sub><b>Docker</b></sub>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#" style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/><br/>
+    <sub><b>Git</b></sub>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#" style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma"/><br/>
+    <sub><b>Figma</b></sub>
+  </a>
 </p>
 
-#### Despliegue de Apps & Gestión
+#### Despliegue & Gestión
 <p align="left">
-  <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />
-  <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
+  <a href="#" style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googleplay.svg" width="40" height="40" alt="Google Play"/><br/>
+    <sub><b>Google Play</b></sub>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#" style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apple.svg" width="40" height="40" alt="App Store"/><br/>
+    <sub><b>App Store</b></sub>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#" style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" height="40" alt="Jira"/><br/>
+    <sub><b>Jira</b></sub>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#" style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="40" height="40" alt="Trello"/><br/>
+    <sub><b>Trello</b></sub>
+  </a>
 </p>
-
 ---
 
 ### 📊 Mis Estadísticas de GitHub
