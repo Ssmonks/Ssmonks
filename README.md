@@ -42,7 +42,9 @@ Un desarrollador apasionado por crear software robusto, escalable y soluciones m
 ### 📊 Mis Estadísticas de GitHub
 
 <p align="center">
-  [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
+  <img src="https://github-stats-extended.vercel.app/api?username=Ssmonks&show_icons=true&theme=radial" alt="Estadísticas de GitHub de Ssmonks" />
+  <br /><br />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ssmonks&layout=compact&theme=radial" alt="Lenguajes más usados por Ssmonks" />
 </p>
 
 ---
